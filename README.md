@@ -1,4 +1,4 @@
-[![Build status](https://build.appcenter.ms/v0.1/apps/62aba4ba-40c6-4f22-b87b-020730863f17/branches/main/badge)](https://appcenter.ms)
+[![Build status](https://build.appcenter.ms/v0.1/apps/62aba4ba-40c6-4f22-b87b-020730863f17/branches/main/badge)](https://appcenter.ms) 
 
 
 # mental_health_tracker
