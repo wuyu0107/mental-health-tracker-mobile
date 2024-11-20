@@ -1,14 +1,14 @@
 #!/usr/bin/env bash
 # Place this script in project/android/app/
 
-cd ../..
+cd ..
 
 # fail if any command fails
 set -e
 # debug log
 set -x
 
-cd ..
+cd ../..
 git clone -b beta https://github.com/flutter/flutter.git
 export PATH=`pwd`/flutter/bin:$PATH
 
