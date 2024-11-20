@@ -1,4 +1,7 @@
-App Center link to the built one: [App Center](https://install.appcenter.ms/orgs/pbp-2024-semester-3/apps/mental-health-tracker-2/distribution_groups/public/releases/3)
+App Center link to the built one: [App Center](https://appcenter.ms/orgs/PBP-2024-Semester-3/apps/Mental-health-tracker-2/build/branches)
+
+Built package: [Package](https://install.appcenter.ms/orgs/pbp-2024-semester-3/apps/mental-health-tracker-2/distribution_groups/public/releases/3)
+
 Repository that was used to build this: https://github.com/wuyu0107/mental_health_tracker_deploy.git
 ___
 App Center link to this repository (Doesn't build) : [App Center](https://appcenter.ms/orgs/PBP-2024-Semester-3/apps/Mental-Health-Tracker/build/branches)
