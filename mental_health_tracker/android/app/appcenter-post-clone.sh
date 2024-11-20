@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Place this script in project/android/app/
 
-cd ..
+cd ../..
 
 # fail if any command fails
 set -e
